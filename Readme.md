@@ -1,4 +1,4 @@
-# AnshuWanderlust (Live)[#/blank]
+# AnshuWanderlust [Live](https://loginauthbyanshu.onrender.com/)
 AnshuWanderlust is a web application that allows users to explore destinations and plan their next adventure. With features for user authentication, destination browsing, and more, AnshuWanderlust provides a seamless experience for travel enthusiasts.
 
 # Features
