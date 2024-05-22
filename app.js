@@ -17,8 +17,9 @@ app.set('view engine', 'ejs');
 
 // database connection
 const dbURI = process.env.DB_URI;  
+const port = process.env.PORT || 3000;  // Use the PORT environment variable if available, otherwise default to 3000
 mongoose.connect(dbURI)
-  .then((result) => app.listen(3000, () => console.log('Server is running on port 3000')))
+  .then((result) => app.listen(port, () => console.log(`Server is running on port ${port}`)))
   .catch((err) => console.log(err));
 
 // routes
