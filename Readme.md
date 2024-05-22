@@ -1,4 +1,4 @@
-# AnshuWanderlust (Live)[]
+# AnshuWanderlust (Live)[#/blank]
 AnshuWanderlust is a web application that allows users to explore destinations and plan their next adventure. With features for user authentication, destination browsing, and more, AnshuWanderlust provides a seamless experience for travel enthusiasts.
 
 # Features
@@ -9,8 +9,9 @@ Login: Existing users can log in to their accounts using their credentials.
 Logout: Users can securely log out of their accounts to protect their privacy.
 
 # Destination Exploration
+
 Explore Destinations: Users can browse through a curated list of featured destinations.
-# Destination Details: Each destination page provides detailed information about the location, including descriptions and images.
+Destination Details: Each destination page provides detailed information about the location, including descriptions and images.
 
 # User Experience
 Responsive Design: The application is designed to work seamlessly across devices of all sizes, including desktops, tablets, and smartphones.
